@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b532bdd5-6413-4f0f-9999-2f8260d6b5b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/news/something-important.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="b532bdd5-6413-4f0f-9999-2f8260d6b5b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="245" />
+        <entry key="$PROJECT_DIR$" value="246" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +24,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="247" />
+                    <option name="lastUsedInstant" value="1663574284" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="246" />
                     <option name="lastUsedInstant" value="1663573832" />
@@ -145,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="245. 프로젝트에 첫 번째 페이지 추가하기&#10;&#10;- 프로젝트 생성 및 임시 페이지 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="245. 프로젝트에 첫 번째 페이지 추가하기&#10;&#10;- 프로젝트 생성 및 임시 페이지 추가" />
+    <MESSAGE value="246. 중첩된 페이지 / 경로 추가하기&#10;&#10;- next.js의 router 및 중첩 router 개념 이해" />
+    <option name="LAST_COMMIT_MESSAGE" value="246. 중첩된 페이지 / 경로 추가하기&#10;&#10;- next.js의 router 및 중첩 router 개념 이해" />
   </component>
 </project>
