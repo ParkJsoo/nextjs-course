@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b532bdd5-6413-4f0f-9999-2f8260d6b5b6" name="Changes" comment="" />
+    <list default="true" id="b532bdd5-6413-4f0f-9999-2f8260d6b5b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/news/something-important.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -23,6 +28,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="246" />
+                    <option name="lastUsedInstant" value="1663573832" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
                     <option name="lastUsedInstant" value="1663573581" />
@@ -70,6 +79,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/news" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -96,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663572240119</updated>
       <workItem from="1663572241380" duration="1373000" />
+      <workItem from="1663573624721" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="245. 프로젝트에 첫 번째 페이지 추가하기&#10;&#10;- 프로젝트 생성 및 임시 페이지 추가">
       <created>1663573552141</created>
@@ -104,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663573552141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="245. 프로젝트에 첫 번째 페이지 추가하기&#10;&#10;- 프로젝트 생성 및 임시 페이지 추가">
+      <created>1663573713022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663573713022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
